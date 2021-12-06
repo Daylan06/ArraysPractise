@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("Enter your coordinates");
         int Usernput = input.nextInt();
-        
+
 
 
 //      int[] treasureCords = new int[];
